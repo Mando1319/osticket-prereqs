@@ -32,8 +32,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/gtPlBvy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-I downloaded the osTicket-Installation-Files.zip within the Virtual Machine and unzipped it onto the desktop. The folder's name was “osTicket-Installation-Files” and so after I extracted the zipped files,
-later on, I would use the files in this folder to install osTicket and some of the dependencies.
+I started by creating a virtual machine and running it on the Azure portal platform. After I downloaded the osTicket-Installation-Files.zip within the Virtual Machine and unzipped it onto the desktop. The folder's name was “osTicket-Installation-Files” and so after I extracted the zipped files, later on, I would use the files in this folder to install osTicket and some of the dependencies.
 </p>
 <br />
 
