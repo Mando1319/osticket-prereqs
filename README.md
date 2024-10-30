@@ -37,10 +37,12 @@ I started by creating a virtual machine and running it on the Azure portal platf
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5bEmk67.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I opened up the control panel then made my way through programs and programs and features, then I clicked on Turn Windows features on or off, then made my way to
+World Wide Web Services -> Application Development Features -> and finally I checked marked CGI to enable it.
+
 </p>
 <br />
 
