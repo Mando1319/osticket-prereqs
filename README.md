@@ -41,7 +41,18 @@ I started by creating a virtual machine and running it on the Azure portal platf
 </p>
 <p>
 I opened up the control panel then made my way through programs and programs and features, then I clicked on Turn Windows features on or off, then made my way to
-World Wide Web Services -> Application Development Features -> and finally I checked marked CGI to enable it.
+World Wide Web Services -> Application Development Features -> and finally I checked marked CGI to enable it. Next, I installed PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi) from which I grabbed from the From the “osTicket-Installation-Files” folder. Moreover, from within the same folder I installed the Rewrite Module (rewrite_amd64_en-US.msi).
+
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/8CfNJxQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Right after I created a new folder C:\PHP, so i could unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the “C:\PHP” folder. Next From the “osTicket-Installation-Files” folder, I install VC_redist.x86.exe. Moreover from within the same folder I installed MySQL 5.5.62 (mysql-5.5.62-win32.msi).
+
+
 
 </p>
 <br />
