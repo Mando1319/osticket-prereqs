@@ -58,10 +58,11 @@ Right after I created a new folder C:\PHP, so i could unzip PHP 7.3.8 (php-7.3.8
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/19V3v5n.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Moreover, I opened IIS as an Admin then, registered PHP from within IIS (PHP Manager -> C:\PHP\php-cgi.exe), after I reloaded IIS which I just opened IIS, stop and start the server. Then after I Installed osTicket v1.15.,From the “osTicket-Installation-Files” folder, unzipped “osTicket-v1.15.8.zip” and copied the “upload” folder into “c:\inetpub\wwwroot”Within “c:\inetpub\wwwroot”,which I renamed from “upload” to “osTicket”.
+Moreover, I opened IIS as an Admin and then, registered PHP from within IIS (PHP Manager -> C:\PHP\php-cgi.exe), after I reloaded IIS which I had just opened IIS, stopped and started the server. Then after I Installed osTicket v1.15., From the “osTicket-Installation-Files” folder, unzipped “osTicket-v1.15.8.zip” and copied the “upload” folder into “c:\inetpub\wwwroot” Within “c:\inetpub\wwwroot”, which I renamed from “upload” to “osTicket”. Then once again I stopped and started the server. Finally, I went to sites -> Default -> osTicket on the right, clicked “Browse *:80” and the osTicket installer site opened up.
+
 
 </p>
 <br />
