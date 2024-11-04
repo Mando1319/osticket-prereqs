@@ -32,7 +32,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/gtPlBvy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-I started by creating and running a virtual machine on the Azure portal platform. After I downloaded the osTicket-Installation-Files.zip within the Virtual Machine and unzipped it onto the desktop. The folder's name was “osTicket-Installation-Files” and so after I extracted the zipped files, later on, I would use the files in this folder to install osTicket and some of the dependencies.
+I started by creating and running a virtual machine on the Azure portal platform. Then, I downloaded the osTicket-Installation-Files.zip within the Virtual Machine and unzipped it onto the desktop. The folder's name was “osTicket-Installation-Files,” and after I extracted the zipped files, I would use the files in this folder to install osTicket and some of the dependencies.
 </p>
 <br />
 
@@ -40,8 +40,8 @@ I started by creating and running a virtual machine on the Azure portal platform
 <img src="https://i.imgur.com/5bEmk67.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-I opened up the control panel then made my way through programs and programs and features, then I clicked on Turn Windows features on or off, then made my way to
-World Wide Web Services -> Application Development Features -> and finally I checked marked CGI to enable it. Next, I installed PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi) from which I grabbed from the From the “osTicket-Installation-Files” folder. Moreover, from within the same folder I installed the Rewrite Module (rewrite_amd64_en-US.msi).
+I opened up the control panel made my way through programs and programs and features, then clicked on Turn Windows features on or off, then made my way to
+World Wide Web Services -> Application Development Features -> and finally I checked marked CGI to enable it. Next, I installed PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi) which I grabbed from the “osTicket-Installation-Files” folder. Moreover, from within the same folder I installed the Rewrite Module (rewrite_amd64_en-US.msi).
 
 </p>
 <br />
